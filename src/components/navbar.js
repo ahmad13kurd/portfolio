@@ -26,7 +26,7 @@ class NaveBar extends Component {
                             <li><a href="#" className="nav-link fab fa-twitter" /></li>
                             <li><a href="#" className="nav-link fas fa-envelope" /></li>
                             <li><a href="#" className="nav-link fab fa-linkedin-in" /></li>
-                            <li><a href="#" className="nav-link fab fa-github" /></li>
+                            <li><a href="https://github.com/ahmad13kurd" className="nav-link fab fa-github" /></li>
                         </ul>
                     </div>
                 </nav>
