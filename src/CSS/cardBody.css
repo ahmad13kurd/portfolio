@@ -1,0 +1,40 @@
+.container{
+    margin-top: 220px;
+	background-color: white;
+    vertical-align: baseline;
+    font: inherit;
+    box-sizing: inherit;
+    text-align: center;
+}
+.card1{
+    border: 0ch;
+    background-color: white;
+}
+
+.card2{
+    max-width: 540px;
+    border: 0ch;
+    margin-top: 100px;
+}
+.card-title{
+    margin-top: 70px;
+}
+
+.card-img-top{
+  width: 50%;
+  height: 250px;
+  margin-top: 50px;
+}
+.card-img{
+    height: 100%;
+}
+h1 a{
+    color: black;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+h3 a{
+    color: black;
+    text-transform: uppercase;
+    font-weight: 900;
+}

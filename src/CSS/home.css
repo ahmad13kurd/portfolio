@@ -1,0 +1,51 @@
+
+.myImg{
+  border-radius: 50%;
+  height: 250px;
+  float: inherit;
+  margin-top: 150px;
+}
+
+.p1{
+    color: white;
+    margin: 0px 50px 0px 50px;
+    vertical-align: baseline;
+    font: inherit;
+    font-size: 1.3rem;
+    box-sizing: inherit;
+   /*  margin-inline-start: 0px;
+    margin-inline-end: 0px; */
+}
+.myName{
+    color: white;
+    font-family: 'Baloo Chettan', cursive;
+    font-weight: 1050;
+    line-height: 1.8;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    margin: 0 0 1rem 0;
+    font-size: 4rem;
+}
+.arrow{
+    color: white !important; 
+    margin-top: 150px;
+    border: 0ch;
+}
+.arrow:hover{
+    color:#18bfef;
+    text-decoration: none;
+    border: #18bfef
+}
+a:hover{
+    color:#18bfef !important;
+    text-decoration: none;
+    border: #18bfef
+}
+a{
+    color: white;
+    border: 0ch;
+}
+li {
+    list-style: none;
+}
+
