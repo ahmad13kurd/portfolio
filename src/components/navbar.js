@@ -23,10 +23,10 @@ class NaveBar extends Component {
                             </li>
                         </ul>
                         <ul className="nav icons">
-                            <li><a href="#" className="nav-link fab fa-twitter" /></li>
-                            <li><a href="#" className="nav-link fas fa-envelope" /></li>
-                            <li><a href="#" className="nav-link fab fa-linkedin-in" /></li>
-                            <li><a href="https://github.com/ahmad13kurd" className="nav-link fab fa-github" /></li>
+                            <li><a href="#" target="_blank" className="nav-link fab fa-xing fa-lg" /></li>
+                            <li><a href="#" target="_blank" className="nav-link fas fa-envelope" /></li>
+                            <li><a href="#" target="_blank" className="nav-link fab fa-linkedin-in" /></li>
+                            <li><a href="https://github.com/ahmad13kurd" target="_blank" className="nav-link fab fa-github" /></li>
                         </ul>
                     </div>
                 </nav>
