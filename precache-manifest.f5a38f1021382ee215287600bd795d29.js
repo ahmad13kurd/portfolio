@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "210231429699448578bedcd00dc7ec0f",
-    "url": "/portfolio/static/media/crudNode.21023142.jpg"
+    "revision": "e46e364f8f95d98560a7434e6ff23ed8",
+    "url": "/portfolio/static/media/bg.e46e364f.jpg"
   },
   {
-    "revision": "c52d180fc14d305baa35",
+    "revision": "5f54b0f3f3a5e65bc133",
     "url": "/portfolio/static/css/main.eaa404eb.chunk.css"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/portfolio/static/js/2.37e73f11.chunk.js"
   },
   {
-    "revision": "e46e364f8f95d98560a7434e6ff23ed8",
-    "url": "/portfolio/static/media/bg.e46e364f.jpg"
+    "revision": "5f54b0f3f3a5e65bc133",
+    "url": "/portfolio/static/js/main.be6a19ff.chunk.js"
   },
   {
-    "revision": "c52d180fc14d305baa35",
-    "url": "/portfolio/static/js/main.9ef48fe0.chunk.js"
+    "revision": "210231429699448578bedcd00dc7ec0f",
+    "url": "/portfolio/static/media/crudNode.21023142.jpg"
   },
   {
     "revision": "06313284d4aac71e7700729bd2c33675",
@@ -36,15 +36,11 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/crud.3025a12c.png"
   },
   {
-    "revision": "242cf1e7d1b3f42011be367a82c66a04",
-    "url": "/portfolio/static/media/pic02.242cf1e7.jpg"
-  },
-  {
     "revision": "57e1b578c45b0715bfd6",
     "url": "/portfolio/static/css/2.c6c9d672.chunk.css"
   },
   {
-    "revision": "562f6f56d3512f6452d8af10d3bad668",
+    "revision": "691b4731e400b1104f752e899fe8fb91",
     "url": "/portfolio/index.html"
   }
 ];
