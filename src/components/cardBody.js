@@ -9,7 +9,7 @@ class CardBody extends Component {
             <div className="container " id="works">
                 <div className=" card1">
                     <div className="card-body">
-                        <h1 className="card-title"><a href=" https://crodapp.herokuapp.com/" target="_blank"> MERN Crud App</a></h1>
+                        <h1 className="card-title"><a href=" https://crodapp.herokuapp.com/" target="_blank">MERN Crud App</a></h1>
                         <p className="card-text">reactJs & nodeJs & MongoDB</p>
                         <a type="button" href="#" target="_blank" className="btn btn-secondary">view in Github</a>
                     </div>
