@@ -43,9 +43,9 @@ class CardBody extends Component {
                                     </div>
                                     <div className="col-md-8">
                                         <div className="card-body">
-                                            <h3 className="card-title"><a href="#" target="_blank">Authentication App</a></h3>
+                                        <h3 className="card-title"><a href="https://authenapp.herokuapp.com/" target="_blank">Authentication App</a></h3>
                                             <p className="card-text">ReactJs & NodeJs & MongoDB</p>
-                                            <a type="button" href="#" target="_blank" className="btn btn-secondary">view in Github</a>
+                                            <a type="button" href="https://github.com/ahmad13kurd/authenapp" target="_blank" className="btn btn-secondary">view in Github</a>
                                         </div>
                                     </div>
                                 </div>
