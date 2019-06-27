@@ -23,9 +23,9 @@ class NaveBar extends Component {
                             </li>
                         </ul>
                         <ul className="nav icons">
-                            <li><a href="#" target="_blank" className="nav-link fab fa-xing fa-lg" /></li>
-                            <li><a href="#" target="_blank" className="nav-link fas fa-envelope" /></li>
-                            <li><a href="#" target="_blank" className="nav-link fab fa-linkedin-in" /></li>
+                            <li><a href="https://www.xing.com/profile/AHMAD_MALLA3/cv" target="_blank" className="nav-link fab fa-xing fa-lg" /></li>
+                            <li><Link className="nav-link fas fa-envelope" to="contact" spy={true} smooth={true} duration={1000}></Link></li>
+                            <li><a href="https://www.linkedin.com/in/ahmad-malla-52b863182/" target="_blank" className="nav-link fab fa-linkedin-in" /></li>
                             <li><a href="https://github.com/ahmad13kurd" target="_blank" className="nav-link fab fa-github" /></li>
                         </ul>
                     </div>
