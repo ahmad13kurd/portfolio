@@ -11,7 +11,7 @@ class CardBody extends Component {
                     <div className="card-body">
                         <h1 className="card-title"><a href=" https://crodapp.herokuapp.com/" target="_blank">MERN Crud App</a></h1>
                         <p className="card-text">reactJs & nodeJs & MongoDB</p>
-                        <a type="button" href="#" target="_blank" className="btn btn-secondary">view in Github</a>
+                        <a type="button" href="https://github.com/ahmad13kurd/CrudApp-react-nodeJs" target="_blank" className="btn btn-secondary">view in Github</a>
                     </div>
                     <a href="#" target="_blank"><img src={require("../images/crudNode.jpg")} className="card-img-top" alt="alt"/></a>
                 </div>
