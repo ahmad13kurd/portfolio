@@ -23,7 +23,7 @@ class CardBody extends Component {
                             <div className="card mb-3 card2">
                                 <div className="row no-gutters">
                                     <div className="col-md-4">
-                                        <a href="https://ahmad13kurd.github.io/weatherapp" target="_blank"><img src={require("../images/weather.jpg")} className="card-img" alt="..." /></a>
+                                        <a href="https://ahmad13kurd.github.io/weatherapp" target="_blank"><img src={require("../images/regenschauer.png")} className="card-img" alt="..." /></a>
                                     </div>
                                     <div className="col-md-8">
                                         <div className="card-body">
